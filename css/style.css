@@ -357,3 +357,73 @@ body {
   text-decoration: none;
 }
 /*# sourceMappingURL=style.css.map */
+.report_icon{
+  display: flex;flex-direction: column;
+  margin: 10px;
+  height: 8rem;
+  padding: 1rem;
+  padding-left: 4rem;
+  width: 100%;
+  background-color: #232249;
+  align-items: center;
+ 
+}
+.ppt_title{
+  display: inline;
+  margin: 25px;
+  padding:3rem;
+  width: 100%;
+  height: 100%;
+  background-color: #232249;
+  align-items: center;
+}
+#report_cl2{
+  background-color: #232249;
+  padding: 0%;
+  margin: 0%;
+
+}
+.report_structure{
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100%;
+  padding: 0.001rem;
+  padding-left: 0.01rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+
+          background-color: #232249; 
+
+
+}
+.report_content{
+  display: inline-flex;flex-direction: row;
+  margin: 25px;
+  padding:3rem;
+  width: 100%;
+  height: 100%;
+  background-color: #232249;
+
+
+
+}
+.social-icon{
+  width: 35px;
+  height: 35px;
+  margin: 5rem 6rem;
+
+  color: #ff4c68;
+  align-items: center;
+
+
+}
